@@ -1,0 +1,9 @@
+notes.txt   
+
+1. get grid setup in html/css 
+2. once grid is setup -- query selctors and elements to grab
+3. create event listeners (clickables to make an action occur and THEN javascript)
+4. functionality -- javascript -- if you click on something, it flips (conditional)
+
+
+on click, push card into a new array
